@@ -6,4 +6,6 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 ##Table of Contents
 
-1. 
+1. Original file: milestone_2.py
+2. File to build functions: milestone_3.py
+3. File with class containing functions: milestone_4.py
